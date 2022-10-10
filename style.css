@@ -88,6 +88,7 @@ button{
 width:370px; 
 height: 615px;
 content: attr();
+margin:20px;
 }
 #cartDesktop{
     width: 372px;
